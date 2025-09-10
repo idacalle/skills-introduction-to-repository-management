@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @idacalle
+/src/backend/database.py      @idacalle
+/src/backend/routers/auth.py  @idacalle
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @idacalle
