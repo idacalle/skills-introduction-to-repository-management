@@ -1,5 +1,5 @@
 ---
-name: add issue template
+name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
